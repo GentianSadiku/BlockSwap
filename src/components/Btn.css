@@ -1,0 +1,22 @@
+.btn {
+  align-self: center;
+  padding: 1rem 1.6rem;
+  border-radius: 6px;
+  border-width: 0;
+  overflow: hidden;
+}
+
+.btn--center {
+  position: absolute;
+  top: 50%;
+}
+
+.btn--primary {
+  color: white;
+  background-color: black;
+  transition: background-color 0.35s;
+}
+
+.btn--primary:hover {
+  background-color: rgb(66, 66, 66);
+}

@@ -1,0 +1,20 @@
+.content__grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+  gap: 4rem 2rem;
+}
+
+.content__link {
+  display: block;
+  margin: 4rem rem;
+  text-align: center;
+  height: 4rem;
+}
+
+@media screen and (min-width: 768px) {
+  .content__grid {
+    justify-content: space-between;
+  }
+}

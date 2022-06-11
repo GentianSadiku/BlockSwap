@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem;
+}
+
+.nav__logo {
+  height: 70px;
+}
+
+.nav__btn {
+  align-self: center;
+}

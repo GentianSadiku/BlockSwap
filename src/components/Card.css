@@ -1,0 +1,17 @@
+.card {
+  width: 24rem;
+  border-radius: 10px;
+  padding: 0 1.4rem;
+  padding-bottom: 2rem;
+}
+
+.card--primary {
+  color: white;
+  background-color: #141a25;
+}
+
+.card__id {
+  font-size: 3rem;
+  text-align: center;
+  padding: 3rem 0;
+}
