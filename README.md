@@ -14,9 +14,9 @@ This is an NFT listing dashboard website based on React.js, styled with CSS
 - [Contract](https://etherscan.io/address/0x4ea67aebb61f7ff6e15e237c8b79d29c41f750fd#code) 
 - [Subgraph](https://thegraph.com/hosted-service/subgraph/vince0656/brand-central?version=current) 
 
-## How To Use
-
-[Demo website](https://block-swap.vercel.app/)
+## Demo
+- First you need to have [MetaMask](https://metamask.io) installed
+- [Demo website](https://block-swap.vercel.app/)
 
 ## Development
 
