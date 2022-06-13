@@ -20,7 +20,7 @@ This is an NFT listing dashboard website based on React.js, styled with CSS
 
 ## Approach
 
-**Reasons we went with this particular tech stack.**w
+**Reasons we went with this particular tech stack.**
 
 - **React**: 
     - Fast & Easy at building interactive UI, because it’s declarative
